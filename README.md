@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Software Engineering, Machine Learning, Deep Learning and Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://ayon037.github.io/Personal-Portfolio-with-React-and-ThreeJS/](https://ayon037.github.io/Personal-Portfolio-with-React-and-ThreeJS/)
-
 - 📫 How to reach me **mohiuddin.310799@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZvY7NFEdzWGMae9vYzc0MxGljs6UwP2C/view?usp=sharing](https://drive.google.com/file/d/1ZvY7NFEdzWGMae9vYzc0MxGljs6UwP2C/view?usp=sharing)
