@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm Mohiuddin Bilwal</h1>
-<h3 align="center">A passionate Software Engineer and AI enthusiast from Bangladesh</h3>
+<h3 align="center">Junior Software Engineer @TechnoNext</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon037&label=Profile%20views&color=0e75b6&style=flat" alt="ayon037" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayon037" alt="ayon037" /></a> </p>
 
-- 🔭 I’m currently working on [Text Summarizer Project](https://github.com/ayon037/Ayon-202014037.github.io/blob/9c47543444ea9fd6ac118b09805200d814139f17/Text_Summarizer_Project.ipynb)
+- 🔭 I have worked on [Text Summarizer Project](https://github.com/ayon037/Ayon-202014037.github.io/blob/9c47543444ea9fd6ac118b09805200d814139f17/Text_Summarizer_Project.ipynb)
 
-- 🌱 I’m currently learning **Natural Language Processing, Time Series Data, Generative AI, Deep Learning**
+- 🌱 I’m currently learning **Natural Language Processing, Generative AI, Deep Learning, Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **Software Engineering, Machine Learning, Deep Learning and Natural Language Processing**
+- 👯 I’m looking to collaborate on **Software Engineering, Machine Learning, Deep Learning, Natural Language Processing**
 
 - 📫 How to reach me **mohiuddin.310799@gmail.com**
 
