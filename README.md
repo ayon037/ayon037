@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **mohiuddin.bilwal@technonext.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZvY7NFEdzWGMae9vYzc0MxGljs6UwP2C/view?usp=sharing](https://drive.google.com/file/d/1ZvY7NFEdzWGMae9vYzc0MxGljs6UwP2C/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohiuddin-bilwal-958a221a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohiuddin bilwal" height="30" width="40" /></a>
