@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Software Engineering, Machine Learning, Deep Learning, Natural Language Processing**
 
-- 📫 How to reach me **mohiuddin.310799@gmail.com**
+- 📫 How to reach me **mohiuddin.bilwal@technonext.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZvY7NFEdzWGMae9vYzc0MxGljs6UwP2C/view?usp=sharing](https://drive.google.com/file/d/1ZvY7NFEdzWGMae9vYzc0MxGljs6UwP2C/view?usp=sharing)
 
