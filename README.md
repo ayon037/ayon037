@@ -1,33 +1,98 @@
-<h1 align="center">Hello 👋, I'm Mohiuddin Bilwal</h1>
-<h3 align="center">Junior Software Engineer @TechnoNext</h3>
+<h1 align="center">Hi, I'm Mohiuddin Bilwal 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon037&label=Profile%20views&color=0e75b6&style=flat" alt="ayon037" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayon037" alt="ayon037" /></a> </p>
-
-- 🔭 I have worked on [Text Summarizer Project](https://github.com/ayon037/Ayon-202014037.github.io/blob/9c47543444ea9fd6ac118b09805200d814139f17/Text_Summarizer_Project.ipynb)
-
-- 🌱 I’m currently learning **Natural Language Processing, Generative AI, Deep Learning, Ruby on Rails**
-
-- 👯 I’m looking to collaborate on **Software Engineering, Machine Learning, Deep Learning, Natural Language Processing**
-
-- 📫 How to reach me **mohiuddin.bilwal@technonext.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohiuddin-bilwal-958a221a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohiuddin bilwal" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mohiuddinbilwalayon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohiuddin bilwal ayon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mohiuddin_310799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohiuddin_310799" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_MoHiudDiN_rE3ta7T_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_mohiuddin_re3ta7t_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ayon_suchok37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohiuddin bilwal" height="30" width="40" /></a>
-<a href="https://discord.gg/1144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1144" height="30" width="40" /></a>
+<p align="center">
+  <b>AI/ML researcher and backend engineer</b><br/>
+  Agentic LLM systems · Model compression · Scalable multi-tenant backends
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://ayon037.github.io"><img src="https://img.shields.io/badge/Portfolio-ayon037.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohiuddin-bilwal-958a221a8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohiuddin.bilwal037@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayon037&show_icons=true&locale=en&layout=compact" alt="ayon037" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayon037&show_icons=true&locale=en" alt="ayon037" /></p>
+## About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayon037&" alt="ayon037" /></p>
+I build software that is fast under load, and I research how LLM agents can make deep learning models smaller and cheaper to run. I work as a software engineer on production SaaS systems, and I do research on the side, with papers published, accepted or under review.
+
+- 💼 **Junior Software Engineer (R&D)** at **TechnoNext Software Limited**, Dhaka (Jul 2025 – present)
+- 🔬 **Researcher** at **SwAPP Lab, Iowa State University**, supervised by Prof. Ali Jannesari (Aug 2025 – Jul 2026)
+- 🎓 **B.Sc. in CSE**, Military Institute of Science and Technology (MIST), CGPA 3.41/4.00
+- ☁️ Currently completing the **AWS AI & ML Scholars: Future AWS Agent Engineer** nanodegree (Bedrock AgentCore, Strands Agents, MCP, RAG, agent memory)
+- 🏆 Solved **1,500+** competitive programming problems; **1st of 36 universities** at the University Rover Challenge 2021 (Software & Communication team)
+
+---
+
+## 🔬 Research
+
+**Focus:** LLM agents that decide how to compress neural networks (pruning, quantization), guided by profiling data.
+
+| Paper | Venue | Status |
+|---|---|---|
+| **APQF**: Agentic Profiling-Guided Structured Pruning and Mixed-Precision Quantization with Adaptive Fine-Tuning | SC26 | Accepted |
+| **ProfilingAgent**: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization | IEEE Computational Intelligence Society | Under review |
+| A Multi-Modal Assistive Robot Navigation System for Physically Impaired Users | IEEE QPAIN 2025 | Accepted |
+| Proposing and Evaluating a Modified Keyboard Layout for One-Handed Users | ICCIT 2024 | Conference paper |
+
+**Highlights**
+- Structured pruning on CNN and ViT models for ProfilingAgent: up to **7.7% memory reduction** with **under 1% accuracy loss**.
+- Reproduced the GETA pruning and quantization framework: up to **61% fewer parameters** and **44% fewer MACs**, matching published baselines within **0.02%**.
+- Undergraduate thesis: an AI agent that navigates websites and rates their usability, compared against human testers.
+
+---
+
+## 💼 Engineering
+
+**TechnoNext Software Limited**: multi-tenant project-management SaaS
+
+- Took the platform from **crashing at ~200 concurrent users to sustaining 2,000+**, a **10× capacity gain on the same hardware**.
+- Cut load on the slowest endpoint with compound indexes, query tuning and **Redis caching**; tuned PostgreSQL memory and connection pooling; added rate limiting and request timeouts.
+- Designed a **four-layer authorization model** (gateway, user, role, module) for strict tenant isolation.
+- Built a CI/CD module covering repositories, pipelines, deployments and approvals, with real-time **Discord, Telegram and Slack** notifications.
+
+**Barikoi Maps (intern, 2025)**: 360° video-to-image pipeline and a desktop tool for a custom Street View platform. Placed **3rd in the internal hackathon**.
+
+---
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ruby,rails,ts,react,nodejs,go,cpp,java,postgres,redis,docker,aws,azure,pytorch,tensorflow,sklearn,linux,git,arduino&perline=10" alt="Tech stack"/>
+</p>
+
+- **Backend:** Ruby on Rails, PostgreSQL, Redis, REST APIs, FastAPI, background jobs, CI/CD
+- **ML / AI:** PyTorch, TensorFlow, Hugging Face, RAG, LLM agents, CNNs, Vision Transformers, pruning, quantization, distillation
+- **Cloud and tools:** AWS (Bedrock AgentCore, Lambda, S3), Azure, Docker, Slurm, Git, LaTeX
+
+---
+
+## ☁️ AWS agent projects
+
+Built as part of the AWS Future Agent Engineer nanodegree.
+
+| Project | What it covers |
+|---|---|
+| Support chatbot with prompt-based routing | One system prompt classifies messages, saves bug tickets through an AgentCore Gateway to Lambda and DynamoDB, and answers from an FAQ. Scored **10/10** correctness in a Bedrock Evaluations run. |
+| E-commerce support agent | Deployed on AgentCore Runtime with Strands, MCP tools via Gateway, RAG from a Knowledge Base, cross-session memory, a Code Interpreter for exact loyalty maths, and a browser tool. |
+
+---
+
+## 🏅 Selected achievements
+
+- AWS AI & ML Scholars: Future AWS Agent Engineer (AWS-sponsored)
+- Aspire Leaders Program 2025 and AI-Integrated Leadership Program 2026 (Aspire Institute)
+- Microsoft Certified: Azure AI Fundamentals
+- Kaggle ML Olympiad (CO2 emissions prediction): **24th of 70 teams**
+- LEETCON cybersecurity competition: **34th of 100+ teams**
+- Mentor and Team Coordinator, MIST Computer Club and Innovation Club (2021–2023)
+
+---
+
+## 📫 Let's connect
+
+I am interested in **agentic AI, efficient deep learning, and reliable backend systems**, and in research collaborations in those areas.
+
+- Portfolio and publications: [ayon037.github.io](https://ayon037.github.io)
+- Coding profiles: [LeetCode](https://leetcode.com/u/ayon_suchok37/) · [Codeforces](https://codeforces.com/profile/_MoHiudDiN_rE3ta7T_) · [Kaggle](https://www.kaggle.com/mohiuddinbilwalayon) · [HackerRank](https://www.hackerrank.com/profile/mohiuddin_310799)
