@@ -22,7 +22,7 @@
 
 I build software that stays fast under load, and I research how **LLM agents can make deep learning models smaller and cheaper to run**. By day I engineer production SaaS systems; alongside that I do research, with papers published, accepted or under review.
 
-|  |  |
+| At a glance | |
 |---|---|
 | 💼 **Now** | Junior Software Engineer (R&D) at **TechnoNext Software Limited**, Dhaka (Jul 2025 – present) |
 | 🔬 **Research** | Researcher at **SwAPP Lab, Iowa State University** with Prof. Ali Jannesari (Aug 2025 – Jul 2026) |
